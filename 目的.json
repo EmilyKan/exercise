@@ -1,0 +1,1826 @@
+{
+  "data": [
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 73.8
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.3
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.1
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.7
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.2
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.3
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.1
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.6
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.6
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 20519,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.7
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.8
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.9
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 14.8
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.3
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.2
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 12.3
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.2
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20.9
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.4
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1118,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 44
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 57.1
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.2
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.8
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.1
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 24.7
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.7
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15.9
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.8
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.2
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.2
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 1921,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.8
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.7
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.9
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.1
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.6
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.7
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.2
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 23.1
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.6
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.8
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1469,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 66.6
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 62.3
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.9
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.3
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 23
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.9
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.4
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.2
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.1
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.7
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1408,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.5
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.1
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.3
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.9
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.1
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.1
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.2
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.6
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.1
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.9
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 1636,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 67.8
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 72.1
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.4
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.1
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.2
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.5
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.6
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.3
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.9
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 1820,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.9
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.1
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.3
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.9
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.5
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.9
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.8
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20.5
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.3
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.6
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.2
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 1645,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 77
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 77.6
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.3
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.5
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.8
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 12.1
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.6
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.3
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.6
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.1
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 1699,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.1
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.8
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.4
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.8
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.9
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.2
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.6
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.5
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.9
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.2
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 1751,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 86.1
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 87.8
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.4
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.5
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.3
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.4
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.6
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.5
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.9
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.4
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 1648,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.8
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.4
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.7
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.5
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.9
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.9
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.8
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.5
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.6
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.4
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1463,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 86.9
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 85.6
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.2
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.5
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.7
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.1
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.5
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.8
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.1
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.1
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.7
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.1
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2484,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.5
+    },
+    {
+      "analyzeItem": "其他/不知道/無意見/拒答",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "接觸大自然",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.3
+    },
+    {
+      "analyzeItem": "想和家人或朋友一起",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.4
+    },
+    {
+      "analyzeItem": "學校課程",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.2
+    },
+    {
+      "analyzeItem": "生活習慣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7
+    },
+    {
+      "analyzeItem": "解除壓力",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.8
+    },
+    {
+      "analyzeItem": "興趣/好玩/有趣",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.6
+    },
+    {
+      "analyzeItem": "打發時間/無聊",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.4
+    },
+    {
+      "analyzeItem": "為了身材",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.9
+    },
+    {
+      "analyzeItem": "工作",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.3
+    },
+    {
+      "analyzeItem": "為了健康",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 72.9
+    },
+    {
+      "analyzeItem": "社交應酬",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.8
+    },
+    {
+      "analyzeItem": "鍛鍊運動技巧",
+      "analyzeTarget": "運動目的比例",
+      "analyzeYear": "110",
+      "measureUnit": "百分比",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 457,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1
+    }
+  ],
+  "errorCode": "0000",
+  "totalCount": 182
+}

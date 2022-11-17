@@ -1,0 +1,986 @@
+{
+  "data": [
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.8
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.2
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 32.8
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.7
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.9
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.2
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.7
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.9
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.4
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 36.7
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.3
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.3
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.8
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.5
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 35.9
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20.9
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.4
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.8
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.8
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.2
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 32.8
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.2
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.8
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 25.3
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.4
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 26.4
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.9
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.7
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.5
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.7
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.7
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.8
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 24.7
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 28.9
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.5
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 25.8
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 24.7
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.3
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 31.7
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20.9
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.2
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.9
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.6
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.9
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.7
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 21.5
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 36.3
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.9
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.2
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20.8
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.2
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 35.1
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 21.9
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.9
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.8
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.7
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.8
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.4
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.4
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 33.4
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.7
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.6
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.7
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.4
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 29.8
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 27
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.3
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.1
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.2
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.3
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.8
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 25.3
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 32.6
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.7
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15.5
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 14.1
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.6
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 33.8
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 24.7
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.9
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.8
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.7
+    },
+    {
+      "analyzeItem": "120~179分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.8
+    },
+    {
+      "analyzeItem": "180分以上",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0
+    },
+    {
+      "analyzeItem": "90~119分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.7
+    },
+    {
+      "analyzeItem": "60~89分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.1
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.8
+    },
+    {
+      "analyzeItem": "30分以下",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 14.6
+    },
+    {
+      "analyzeItem": "30~59分",
+      "analyzeTarget": "運動時間",
+      "analyzeYear": "110",
+      "measureUnit": "平均分鐘數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 32.2
+    }
+  ],
+  "errorCode": "0000",
+  "totalCount": 98
+}

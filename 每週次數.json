@@ -1,0 +1,1126 @@
+{
+  "data": [
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.8
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.2
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 16.4
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.6
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.6
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.6
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "整體",
+      "statisticsItemSamples": 25598,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 16.8
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 13.1
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.4
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.4
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.6
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.4
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.5
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.2
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "13-17歲",
+      "statisticsItemSamples": 1231,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.3
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.8
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.1
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15.9
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 23.8
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.4
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.4
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "18-24歲",
+      "statisticsItemSamples": 2337,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.3
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.6
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.1
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.6
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.4
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.8
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.8
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "25-29歲",
+      "statisticsItemSamples": 1904,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.8
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 25.3
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.9
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 21.7
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.6
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.8
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.6
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "30-34歲",
+      "statisticsItemSamples": 1887,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.9
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 0.5
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6.3
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.3
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.9
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 14
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.1
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 14.4
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "35-39歲",
+      "statisticsItemSamples": 2204,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 25.8
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 24.6
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.2
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.9
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15.7
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.4
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.5
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "40-44歲",
+      "statisticsItemSamples": 2417,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.5
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.7
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.7
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.7
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 18.8
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.8
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.7
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "45-49歲",
+      "statisticsItemSamples": 2115,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 22.2
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 20.8
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.6
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15.7
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 18.7
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.2
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 12.4
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.3
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "50-54歲",
+      "statisticsItemSamples": 2146,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.1
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.5
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.7
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 18.8
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.5
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 16.1
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.4
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.4
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "55-59歲",
+      "statisticsItemSamples": 2176,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 19.6
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.7
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.6
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.9
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 12.8
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.3
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.3
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 3.8
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "60-64歲",
+      "statisticsItemSamples": 2003,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 28.8
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 32.4
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 9.6
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.1
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 12.6
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 7.1
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.6
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "65-69歲",
+      "statisticsItemSamples": 1732,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 15.5
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 14.1
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 1.4
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.4
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.1
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 6
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 10.2
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "70歲及以上",
+      "statisticsItemSamples": 2891,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 42.4
+    },
+    {
+      "analyzeItem": "7次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 26.5
+    },
+    {
+      "analyzeItem": "5次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 8.4
+    },
+    {
+      "analyzeItem": "6次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 2.4
+    },
+    {
+      "analyzeItem": "4次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 4.7
+    },
+    {
+      "analyzeItem": "3次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 13.7
+    },
+    {
+      "analyzeItem": "沒有運動",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 17.8
+    },
+    {
+      "analyzeItem": "1次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 5.2
+    },
+    {
+      "analyzeItem": "2次",
+      "analyzeTarget": "每週運動次數",
+      "analyzeYear": "110",
+      "measureUnit": "平均次數",
+      "statisticsItem": "拒答",
+      "statisticsItemSamples": 555,
+      "statisticsItemSubject": "年齡",
+      "statisticsItemValue": 11.2
+    }
+  ],
+  "errorCode": "0000",
+  "totalCount": 112
+}
